@@ -1,4 +1,4 @@
-# King Craft
+# King Craft 👑
 
 A Godot Engine powered platformer. It's based on UmaiPixel's [tutorial series][1].
 
