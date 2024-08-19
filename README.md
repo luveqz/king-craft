@@ -2,7 +2,7 @@
 
 A Godot Engine powered platformer. It's based on UmaiPixel's [tutorial series][1].
 
-## [Play Now](https://kingcraft.vercel.app/) 🕹️
+### [Play Now](https://kingcraft.vercel.app/) 🕹️
 
 ## Build Setup
 
