@@ -1,0 +1,14 @@
+{
+    "name": "king-craft",
+    "version": "1.0.0",
+    "description": "A Godot Engine powered platformer.",
+    "scripts": {
+        "preview": "serve dist",
+        "deploy": "vercel --prod dist"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "serve": "^14.2.3",
+        "vercel": "^36.0.0"
+    }
+}
